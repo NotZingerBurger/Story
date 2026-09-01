@@ -38,7 +38,7 @@ else if (choice == "no")
 }
 else if (choice == "maybe")
 {
-    Console.WriteLine("Sorry, but \"maybe\" is not a real answer. You died to the gamerule!");
+    Console.WriteLine("Sorry, but maybe is not a real answer. You died to the gamerule!");
 }
 else
 {
